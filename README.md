@@ -1,29 +1,29 @@
-# Hey there! 👋🚀
+# Hi, I'm Nick 👋
 
-I'm **Nick**, a **Product Front-end Developer** with a passion for turning designs into usable, scalable, and clean user interfaces! 🎨💻 
+Frontend Developer with 4+ years of professional experience building and maintaining production web interfaces for media, content and modern web applications.
 
-My journey started with a curiosity for how websites are built and grew into **3+ years of hands-on production experience**, delivering **250+ UI projects** in real-world environments.
+My main focus is React, Next.js and TypeScript, with experience in responsive and mobile-first development, reusable component design, frontend performance, SEO, CMS-driven applications and REST API integration.
 
-Here's a snapshot of my tech toolkit:
+I am currently strengthening my frontend engineering skills through structured mentorship, project-based learning, pull requests and code reviews.
 
-* **Languages & Core:** `HTML5` · `Plain CSS3` · `Vanilla JavaScript (ES6+)` · `TypeScript` · `PHP`
-* **Frameworks & Libraries:** `React` · `Next.js` · `jQuery` · `Tailwind CSS` · `Shadcn`
-* **Data & CMS:** `Headless CMS (Sanity)` · `REST APIs` · `MySQL`
-* **Tooling & DX:** `Git` · `GitHub` · `ESLint` · `Prettier` · `Husky` · `lint-staged`
+## Tech Stack
 
-### ✨ What I Bring to the Table
+### Frontend
+React • Next.js • TypeScript • JavaScript • Redux Toolkit • React Hook Form • Zod • Tailwind CSS • shadcn/ui
 
-* 🔍 **Curiosity:** A never-ending quest for knowledge and new patterns.
-* 🎨 **Creativity:** Innovative solutions to complex problems and pixel-perfect implementation.
-* 🤝 **Collaboration:** Teamwork makes the dream work — experienced in agile workflows.
+### Backend, APIs & CMS
+REST APIs • PHP • Joomla • Sanity CMS • Basic SQL • Supabase
 
-### 🤝 Let's Connect!
+### Tools & Workflow
+Git • GitHub • Docker (Basic) • Vercel • ESLint • Prettier • Agile/Scrum • Pull Requests • Code Reviews
 
-Always open to collaboration, interesting projects, and discussions about **front-end, DX, and design-to-code workflows**. 
+## Current Projects
 
----
+- **Portfolio Platform** — Next.js, TypeScript, Sanity CMS, next-intl and Vercel
+- **Trello Clone** — React, TypeScript, Redux Toolkit, Tailwind CSS, shadcn/ui and MockAPI
+- **Frontend Engineering Mentorship** — React architecture, state management, performance and modern development workflows
 
-#### 🌍 Find me on:
-[My Website](nickstrofyllas.com) | [LinkedIn](https://www.linkedin.com/in/nick-strofyllas/)
+## Find Me
 
-*Feel free to check out my repos, portfolio & ongoing experiments!* 🚀
+🌐 [Portfolio](https://nickstrofyllas.com/en)  
+💼 [LinkedIn](https://www.linkedin.com/in/nick-strofyllas/)
