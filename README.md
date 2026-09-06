@@ -17,8 +17,3 @@ My experience includes building production-ready interfaces, pixel-accurate impl
 
 - **Portfolio Platform** — Next.js, TypeScript, Sanity, next-intl, Tailwind CSS, Vercel
 - **Trello Clone** — React, TypeScript, Redux Toolkit, Tailwind CSS, shadcn/ui
-
-## Find Me
-
-🌐 [Portfolio](https://nickstrofyllas.com/en)  
-💼 [LinkedIn](https://www.linkedin.com/in/nick-strofyllas/)
